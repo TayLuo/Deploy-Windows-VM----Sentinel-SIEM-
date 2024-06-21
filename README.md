@@ -35,7 +35,7 @@ Choose a new Resource Group, set the region (e.g., West US3), and configure the 
 <img src="https://imgur.com/NapHG6s.png" height="80%" width="80%">
 <br />
 <br />
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gHmPVxV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
