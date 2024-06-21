@@ -23,7 +23,7 @@
 
 <p align="center">
 Setup Recource Group: <br/>
-<img src="https://imgur.com/731vDl5).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
 <br />
 <br />
 Select the disk:  <br/>
