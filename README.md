@@ -46,14 +46,14 @@ Choose a new Resource Group, set the region (e.g., West US3), and configure the 
 — Source Port: All
 — Priority: 100
 <br />
-<img src="https://imgur.com/e1XAsIO.png" height="80%" width="80%">
+<img src="https://imgur.com/e1XAsIO.png" height="80%" width="80%"/>
 <br />
 <br />
-<img src="https://imgur.com/KdVvnfy.png" height="80%" width="80%">
+<img src="https://imgur.com/KdVvnfy.png" height="80%" width="80%"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://imgur.com/aL3jo6d.png" height="80%" width="80%" />
 <br />
 <br />
 Sanitization complete:  <br/>
