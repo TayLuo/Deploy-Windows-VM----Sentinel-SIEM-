@@ -19,10 +19,8 @@
 - <b>Windows 10</b>
 - <b>Microsoft Sentinel</b>
 
-<h2>Create Resource Group</h2>
-
 <p align="center">
-Setup Recource Group: <br/>
+Create Recource Group: <br/>
 <img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
 <br />
 <br />
