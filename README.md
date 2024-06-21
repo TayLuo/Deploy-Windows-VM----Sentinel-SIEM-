@@ -25,9 +25,9 @@ Create Recource Group: <br/>
 <br />
 <br />
 <h2>Create Windows Virtual Machine</h2>
-Create Windows Virtual Machine:  <br/>
-  - <b>—Go to Virtual Machine > Create Virtual Machine.</b>
-  - <b> Choose a new Resource Group, set the region (e.g., West US3), and configure the VM details.</b>
+Steps to create a VM:  <br/>
+Go to Virtual Machine > Create Virtual Machine.
+Choose a new Resource Group, set the region (e.g., West US3), and configure the VM details.
 
 <img src="https://imgur.com/731vDl5.png" height="80%" width="80%">
 <br />
