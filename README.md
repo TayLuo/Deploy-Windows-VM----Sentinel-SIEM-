@@ -35,13 +35,16 @@ Choose a new Resource Group, set the region (e.g., West US3), and configure the 
 <img src="https://imgur.com/NapHG6s.png" height="80%" width="80%">
 <br />
 <br />
-<img src="https://imgur.com/gHmPVxV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gHmPVxV.png" height="80%" width="80%">
 <br />
 <br />
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
+- <b>Security Group Configuration</b> 
+1. Choose Advanced Security Group.
+2. Remove existing rules and add an inbound rule:
+— Destination: Any
+— Source: Any
+— Source Port: All
+— Priority: 100
   
 Enter the number of passes: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
