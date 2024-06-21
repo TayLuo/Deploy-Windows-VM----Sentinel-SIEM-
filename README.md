@@ -25,7 +25,8 @@ Create Recource Group: <br/>
 <br />
 <br />
 Create Windows Virtual Machine:  <br/>
-— Go to Virtual Machine > Create Virtual Machine.
+  - <b>— Go to Virtual Machine > Create Virtual Machine.</b>
+
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
