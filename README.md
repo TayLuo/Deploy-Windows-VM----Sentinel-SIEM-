@@ -38,7 +38,7 @@ Choose a new Resource Group, set the region (e.g., West US3), and configure the 
 <img src="https://imgur.com/gHmPVxV.png" height="80%" width="80%">
 <br />
 <br />
-<b>Security Group Configuration</b> <br />1. Choose Advanced Security Group. <br />
+<b>Security Group Configuration</b> <br /> <br />1. Choose Advanced Security Group. <br />
 2. Remove existing rules and add an inbound rule:
 — Destination: Any
 — Source: Any
