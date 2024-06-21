@@ -29,7 +29,7 @@ Steps to create a VM:  <br/>
 Go to Virtual Machine > Create Virtual Machine.
 Choose a new Resource Group, set the region (e.g., West US3), and configure the VM details.
 
-<img src="https://imgur.com/731vDl5.png" height="80%" width="80%">
+<img src="https://imgur.com/m2t3cI1.png" height="80%" width="80%">
 <br />
 <br />
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
