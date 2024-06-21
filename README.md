@@ -3,9 +3,8 @@
 
 ![Sentinel 3](https://github.com/TayLuo/Honeypot---Sentinel/assets/104034830/02d278da-e22a-42c5-9eca-f7f95fc7a7dd)
 
-  - [Diagram of Configuration Process](https://github.com/joshmadakor1/Algorithms-Practice)
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
+  - [Diagram of Configuration Process](https://github.com/TayLuo/Honeypot---Sentinel/blob/main/Diagram%20of%20Configuration%20Process)
+
 
 
 <h2>Languages and Utilities Used</h2>
