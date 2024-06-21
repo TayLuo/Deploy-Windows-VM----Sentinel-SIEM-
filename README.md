@@ -44,9 +44,8 @@ Choose a new Resource Group, set the region (e.g., West US3), and configure the 
 — Source: Any
 — Source Port: All
 — Priority: 100
-  
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://imgur.com/e1XAsIO.png" height="80%" width="80%">
 <br />
 <br />
 Confirm your selection:  <br/>
