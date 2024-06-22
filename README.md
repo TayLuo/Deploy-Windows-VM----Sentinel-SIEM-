@@ -56,12 +56,12 @@ Choose a new Resource Group, set the region (e.g., West US3), and configure the 
 <img src="https://imgur.com/aL3jo6d.png" height="80%" width="80%" />
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Log Analytics Workspace Setup:</h2>
+1. Go to Log Analytics Workspace > Create.  <br/>
+<img src="https://imgur.com/R0e1Eks.png" height="80%" width="80%"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/IN7nNV8.png" height="80%" width="80%"/>
 </p>
 <h2>Program walk-through:</h2>
 
