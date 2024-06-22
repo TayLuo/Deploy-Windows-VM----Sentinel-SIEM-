@@ -107,10 +107,22 @@ Confirm your selection:  <br/>
 <img src="https://imgur.com/tEiBRKk.png" height="80%" width="80%" />
 <br />
 <br />
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Microsoft Sentinel Integration</h2>
+1. In Microsoft Sentinel, create a new Sentinel for the Honeypot. <br/>
+
+<img src="https://imgur.com/gQBVkkv.png" height="80%" width="80%"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Click “create”. <br/>
+<img src="https://imgur.com/iyA2Cvx.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://imgur.com/u1Gd8xz.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
