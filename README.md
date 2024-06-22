@@ -83,8 +83,10 @@ Choose a new Resource Group, set the region (e.g., West US3), and configure the 
 <img src="https://imgur.com/X12mGJJ.png" height="80%" width="80%"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<h2>Data Collection Configuration</h2>
+1. Under Data Collection, enable events like Windows Security and App Locker events. <br/>
+<img src="https://imgur.com/xjG1G8W.png" height="80%" width="80%" />
 <br />
 <br />
 Confirm your selection:  <br/>
