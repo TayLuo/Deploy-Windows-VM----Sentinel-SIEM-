@@ -120,10 +120,15 @@ Click “create”. <br/>
 <img src="https://imgur.com/u1Gd8xz.png" height="80%" width="80%" />
 <br />
 <br />
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2. Retrieve the public IP address of the VM from Virtual Machines > Honeypot. <br/>
+
+<img src="https://imgur.com/6Ub5J1s.png" height="80%" width="80%"/>
 <br />
 <br />
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gqCs6qi.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://imgur.com/A0wGnQy.png" height="80%" width="80%" />
 <br />
 <br />
 Sanitization complete:  <br/>
