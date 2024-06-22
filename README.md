@@ -131,44 +131,46 @@ Click “create”. <br/>
 <img src="https://imgur.com/A0wGnQy.png" height="80%" width="80%" />
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Access Window VM with RDP<br/>
+
+<img src="https://imgur.com/bcIGVSK.png" height="80%" width="80%" />
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Enter the Public IP address in the Computer column, Username and password (Recall the username and password used when creating the Virtual machine).<br/><br/>
+After being successfully logged in, search for “Event Viewer” and open the program, Click on “Security”. You will get to see some of the security events generated in the log during the duration of the VM running. <br /> <br />
+
+<h2>Filter logs in Microsoft Sentinel</h2>
+Open Logs in Microsoft Sentinel and remember to select our Log Analytics Workspace. <br/>
+<img src="https://imgur.com/SFbcGzr.png" height="80%" width="80%" />
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Sentinel uses Kusto Query Language to perform query on Logs. Lets perform some queries on our log from VM <br/>
+<img src="https://imgur.com/KDTdD5W.png" height="80%" width="80%"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<h2>Creating Analytic Rules for Microsoft Sentinel and setting up alerts</h2>
+select “Analytics” under configuration<br/>
+
+<img src="https://imgur.com/TQCdjuq.png" height="80%" width="80%"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/hObY9Ot.png" height="80%" width="80%"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://imgur.com/CilFj1S.png" height="80%" width="80%"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://imgur.com/xEAjvya.png" height="80%" width="80%" />
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://imgur.com/LGOy8se.png" height="80%" width="80%" />
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
