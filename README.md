@@ -89,7 +89,24 @@ Choose a new Resource Group, set the region (e.g., West US3), and configure the 
 <img src="https://imgur.com/xjG1G8W.png" height="80%" width="80%" />
 <br />
 <br />
+<h2>Connect VM to Log Analytics Workspace:</h2>
+1. Go to Virtual Machines > Honeypot > Connect to Log Analytics Workspace. <br/>
 Confirm your selection:  <br/>
+<img src="https://imgur.com/nWPCY57.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://imgur.com/BDMg9rt.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://imgur.com/Te5DEn9.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://imgur.com/SCC0a7C.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://imgur.com/tEiBRKk.png" height="80%" width="80%" />
+<br />
+<br />
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
