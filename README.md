@@ -63,12 +63,12 @@ Choose a new Resource Group, set the region (e.g., West US3), and configure the 
 <br />
 <img src="https://imgur.com/IN7nNV8.png" height="80%" width="80%"/>
 </p>
-2. Provide a name, set the region (e.g., West US3), and create the deployment.<br/>
+2. Provide a name, set the region (e.g., West US3), and create the deployment.<br/><br/>
 <img src="https://imgur.com/eApoGtE.png" height="80%" width="80%" />
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://imgur.com/16WCsHb.png" height="80%" width="80%" />
 <br />
 <br />
 Enter the number of passes: <br/>
