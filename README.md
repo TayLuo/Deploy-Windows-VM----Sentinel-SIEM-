@@ -64,12 +64,7 @@ Choose a new Resource Group, set the region (e.g., West US3), and configure the 
 <img src="https://imgur.com/IN7nNV8.png" height="80%" width="80%"/>
 </p>
 2. Provide a name, set the region (e.g., West US3), and create the deployment.<br/>
-<b>Security Group Configuration</b> <br /> <br />
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/eApoGtE.png" height="80%" width="80%" />
 <br />
 <br />
 Select the disk:  <br/>
