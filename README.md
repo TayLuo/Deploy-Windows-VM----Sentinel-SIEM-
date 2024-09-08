@@ -5,7 +5,7 @@
 
   - [Diagram of Configuration Process](https://github.com/TayLuo/Honeypot---Sentinel/blob/main/Diagram%20of%20Configuration%20Process)
 
-
+- [Introduction of the Project](https://github.com/TayLuo/Deploy-Windows-VM----Sentinel-SIEM-/blob/main/The%20purpose%20of%20the%20Project)
 
 <h2>Prerequisites</h2>
 
@@ -19,7 +19,7 @@
 - <b>Windows 10</b>
 - <b>Microsoft Sentinel</b>
 
-- [Introduction of the Project](https://github.com/TayLuo/Deploy-Windows-VM----Sentinel-SIEM-/blob/main/The%20purpose%20of%20the%20Project)
+
 
 
 <p align="center">
