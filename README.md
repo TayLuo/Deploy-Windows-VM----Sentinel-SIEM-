@@ -1,4 +1,4 @@
-<h1>Honeypot - Sentinel - Automation</h1>
+<h1>Windows VM  - Sentinel(SIEM) - Automation</h1>
 
 
 ![Sentinel 3](https://github.com/TayLuo/Honeypot---Sentinel/assets/104034830/02d278da-e22a-42c5-9eca-f7f95fc7a7dd)
@@ -6,6 +6,7 @@
   - [Diagram of Configuration Process](https://github.com/TayLuo/Honeypot---Sentinel/blob/main/Diagram%20of%20Configuration%20Process)
 
 
+- <b>Introduction</b>
 
 <h2>Prerequisites</h2>
 
