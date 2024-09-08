@@ -6,7 +6,7 @@
   - [Diagram of Configuration Process](https://github.com/TayLuo/Honeypot---Sentinel/blob/main/Diagram%20of%20Configuration%20Process)
 
 
-- <b>Introduction</b>
+- <b>Introduction</b> https://github.com/TayLuo/Deploy-Windows-VM----Sentinel-SIEM-/blob/main/The%20purpose%20of%20the%20Project
 
 <h2>Prerequisites</h2>
 
